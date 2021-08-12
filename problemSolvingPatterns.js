@@ -1,5 +1,4 @@
-//algorithim common approaches to problems  
-
+//ALGORITHIM COMMON PROBLEM SOLVING PATTERNS
 //FREQUENCY PATTERN
 //this pattern uses objects or sets to collect values/frquencies of values AVOID NESTED LOOPS!
 //anagram problem 'anagram' 'nagaram' true 'rat' 'car' false 
