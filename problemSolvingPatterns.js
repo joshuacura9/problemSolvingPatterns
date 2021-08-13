@@ -95,6 +95,6 @@ function search(array, val) {
   }
 }
 
-
+console.log(search([2,4],1));
 
 
